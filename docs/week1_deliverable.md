@@ -238,7 +238,13 @@ Thus, in this simulated example, the reassuring evidence reduces the estimated h
 | 8 | Irritable, gray/4–5s cap refill, moderate tachypnea/retractions | 0.05 | 0.55 | 0.40 | 0.15 | 76.92% | Emergency evaluation |
 | 9 | Sleepy but consolable, pale/3–4s cap refill, mild tachypnea | 0.45 | 0.15 | 0.35 | 0.30 | 17.81% | Consult doctor |
 | 10 | Lethargic, pink/normal cap refill, normal respiration | 0.08 | 0.25 | 0.50 | 0.15 | 61.35% | Emergency evaluation |
-
+| 11 | Mild fussiness, normal breathing, good hydration, brief consolable crying | 0.75 | 0.10 | 0.20 | 0.15 | 7.92% | Monitor *(boundary, just below 8%)* |
+| 12 | Slightly reduced activity, normal breathing, adequate hydration, low-grade fever | 0.70 | 0.12 | 0.22 | 0.15 | 9.56% | Consult doctor *(boundary, just above 8%)* |
+| 13 | Restless, mild tachypnea, reduced feeding, prolonged fussiness | 0.25 | 0.30 | 0.55 | 0.30 | 38.98% | Consult doctor *(boundary, just below 40%)* |
+| 14 | Restless, moderate tachypnea, poor feeding, delayed capillary refill | 0.22 | 0.32 | 0.58 | 0.28 | 43.26% | Emergency evaluation *(boundary, just above 40%)* |
+| 15 | Playful, normal breathing, excellent hydration, no fever | 0.90 | 0.02 | 0.05 | 0.05 | 1.62% | Monitor |
+| 16 | Unresponsive to stimulation, mottled skin, severe respiratory distress | 0.03 | 0.90 | 0.35 | 0.05 | 90.34% | Emergency evaluation |
+| 17 | Clingy, less playful than usual, mild fever, slightly reduced fluid intake | 0.45 | 0.20 | 0.40 | 0.30 | 21.05% | Consult doctor |
 
 ## Failures/Limitations
 
