@@ -4,7 +4,7 @@
 
 * System Flow
 <div align="center">
-<img src="images/SystemFlow_PediatricAgent.png" width="900">
+<img src="images/SystemFlowchart_PediatricAgent.png" width="900">
 </div>
 
 * Hidden State Grid
