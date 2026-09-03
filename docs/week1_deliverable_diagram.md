@@ -9,21 +9,22 @@
 
 * Hidden State Grid
 <div align="center">
-<img src="images/state_grid.png" width="1000">
+<img src="images/state_grid.png" width="600">
 </div>
 
 * Bayesian Update Steps
 <div align="center">
-<img src="images/bayes_steps.png" width="1000">
+<img src="images/bayes_steps.png" width="800">
 </div>
 
 * Agent Flow
 <div align="center">
-<img src="images/agent_flow.png" width="1000">
+<img src="images/agent_flow.png" width="400">
 </div>
 
 
-* Diagrammatic Representation of Complete Idea
+
+* AI generated Diagrammatic Representation
 <div align="center">
 <img src="images/week1_deliverable_image.png" width="900">
 </div>

@@ -262,25 +262,6 @@ Right now, each test case is a single moment in time. A real child's symptoms ch
 
 5. Human in the loop was initial part of the idea but isn't implemented at the current threshold rule.
 
-## Architecture diagrams
-
-* Agent Flow
-<div align="center">
-<img src="images/agent_flow.png" width="1000">
-</div>
-
-* Hidden State Grid
-<div align="center">
-<img src="images/state_grid.png" width="1000">
-</div>
-
-* Bayesian Update Steps
-<div align="center">
-<img src="images/bayes_steps.png" width="1000">
-</div>
-
-
-
 ## References and Resources
 
 The following papers and repository were used to understand Bayesian reasoning,pediatric risk stratification, emergency triage and approaches for reasoning under uncertainty. These papers helped me understand how to design the model, but the specific probabilities and thresholds I used are assumptions for this simulation, not established medical rules.
